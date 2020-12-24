@@ -2,3 +2,5 @@ RESOLUSI ILHAM 2021
 - menguasai stack mern
 - jago slicing design
 - masuk undip aamiin
+- bisa html & css
+- bisa laravel + vue
